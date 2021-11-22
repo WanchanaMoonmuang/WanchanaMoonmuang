@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi👋 I'm Wave - Wanchana Moonmuang
 
-<!--
-**6210612757/6210612757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Face Recognition and Face Verification to perform eKYC with ID card.
+- 🌱 I’m currently learning Every kind of AI. 🤖
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Specialize in
+- Machine learning
+- Deep learning
+- Backend development
+- API development
+<br>
+![Wanchana Moonmuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=6210612757&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)
+<br>
+### 📫 Reach me here: 
+> 📧 Email : wanchana34@gmail.com
+> <img align="left" alt="Wanchana Moonmuang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> &#160; Linkedin : [Wanchana Moonmuang](https://www.linkedin.com/in/wanchana-moonmuang-00984a15b/)
