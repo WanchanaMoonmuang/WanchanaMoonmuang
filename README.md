@@ -15,7 +15,7 @@
 - Javascript
 
 ### 📫 Reach me here: 
-> 📧 Email : <wanchana34@gmail.com>
+> 📧 Email : <wanchana.moonmuang@gmail.com>
 > 
 > Linkedin : [Wanchana Moonmuang](https://www.linkedin.com/in/wanchana-moonmuang-00984a15b/)
 
