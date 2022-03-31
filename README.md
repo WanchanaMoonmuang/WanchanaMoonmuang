@@ -1,6 +1,6 @@
 ## Hi👋 I'm Wave - Wanchana Moonmuang
 
-- 🔭 I’m currently working on Face Recognition and Face Verification to perform eKYC with ID card.
+- 🔭 I’m currently working on Depressive disoder classification with Video & NLP.
 - 🌱 I’m currently learning Every kind of AI. 🤖
 
 ### Specialize in:
