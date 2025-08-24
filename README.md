@@ -12,7 +12,11 @@
 ### Languages and Tools:
 - Python
   - Tensorflow
+  - Pytorch
+  - Gradient boosting trees
 - Javascript
+  - NodeJS/NestJS
+- Golang
 
 ### 📫 Reach me here: 
 > 📧 Email : <wanchana.moonmuang@gmail.com>
